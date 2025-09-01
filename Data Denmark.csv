@@ -1,0 +1,20 @@
+﻿No;Parameter;Nilai Satuan;Keterangan
+1;Electricity demand;32,76143808 TWh;Permintaan listrik total per tahun di Denmark
+2;Total capacity thermal;7915,658 MW;Kapasitas terpasang pembangkit listrik thermal
+3;Total thermal generation;13,19751584 TWh;Total produksi listrik dari pembangkit thermal
+4;Condensing capacity;2068,77884 MW;Kapasitas pembangkit condensing (hanya menghasilkan listrik)
+5;CHP capacity;5846,87916MW;Kapasitas pembangkit Combined Heat and Power (listrik + panas)
+6;Minimum load condensing;827,5115359 MW;Beban minimum operasi unit condensing
+7;Minimum load CHP;2338,751664 MW;Beban minimum operasi dari unit CHP
+8;Nuclear capacity;0 MW;Denmark tidak memiliki PLTN
+9;Minimum partload condensing;40%;Tidak berlaku karena tidak ada PLTN
+10;Condensing electricity generation;5,149007034 TWh;Produksi listrik tahunan dari pembangkit condensing
+11;CHP electricity generation;4,083144083 TWh;Produksi listrik tahunan dari pembangkit CHP
+12;CHP heat;10,0828687 TWh;Produksi panas berguna dari unit CHP
+13;Heat-to-power ratio (CHP);1,864143224 -;Rasio panas terhadap listrik di sistem CHP
+14;Minimum partload condensing;40%;Minimal beban operasi terhadap kapasitas condensing
+15;Minimum partload CHP;40%;Minimal beban operasi terhadap kapasitas CHP
+16;Useful heat from condensing (if any);0 TWh;Tidak ada panas berguna dari condensing
+17;Total useful heat from thermal power plants;15,00828687 TWh;Total panas berguna dari semua pembangkit thermal (hanya berasal dari CHP)
+18;Share of CHP in total capacity;73,86%;Persentase kapasitas CHP dari total kapasitas thermal
+19;Share of CHP in total electricity generation;61,10%;Persentase pembangkitan listrik oleh CHP dari total pembangkitan thermal (electricity generation)
