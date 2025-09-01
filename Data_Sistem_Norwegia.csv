@@ -1,0 +1,12 @@
+﻿No;Parameter;Nilai + Satuan;Keterangan
+1;Demand listrik;132,98 TWh;Permintaan tahunan
+2;Kapasitas termal;1.600,00 MW;Kapasitas sistem CHP
+3;Generasi termal;3,37 TWh;Total energi CHP
+4;Kapasitas condensing;0 MW;Tidak ada pembangkit
+5;Kapasitas CHP;~1.600 MW;CHP terpasang
+6;Listrik CHP;1,71 TWh;Produksi listrik
+7;Panas CHP;1,66 TWh;Produksi panas
+8;Rasio panas/listrik;0,97;Rasio efisiensi
+9;Share CHP;1,29 %;Proporsi CHP nasional
+10;Share condensing;0 %;Tidak ada
+11;Bahan bakar CHP;Biomassa, limbah;Daur ulang limbah

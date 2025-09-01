@@ -1,0 +1,20 @@
+﻿No;Parameter;Nilai ;Keterangan
+1;Electricity demand;310,6171841TWh;Permintaan listrik total per tahun di Inggris
+2;Total thermal capacity;64167,8 MW;Kapasitas terpasang pembangkit listrik thermal
+3;Total thermal generation;125,5381425 TWh;Total produksi listrik dari pembangkit thermal
+4;Condensing capacity;58232,3 MW;Kapasitas pembangkit condensing (hanya menghasilkan listrik)
+5;CHP capacity;5935,5 MW;Kapasitas pembangkit Combined Heat and Power (listrik + panas)
+6;Minimum load condensing;23292,92 MW;Beban minimum operasi dari unit condensing
+7;Minimum load CHP;2374,2 MW;Beban minimum operasi dari unit CHP
+8;Nuclear capacity;8954,2 MW;Inggris memiliki kapasitas PLTN aktif
+9;Minimum partload for nuclear;50%;Beban operasi minimum untuk reaktor nuklir
+10;Condensing electricity generation;121,3699466 TWh;Produksi listrik tahunan dari unit condensing
+11;CHP electricity generation;4,168195865 TWh;Produksi listrik tahunan dari unit CHP
+12;CHP useful heat generation;7,905387671 TWh;Produksi panas berguna dari unit CHP
+13;Heat-to-power ratio (CHP);1,897 -;Rasio panas terhadap listrik di sistem CHP
+14;Minimum partload condensing;40%;Minimal beban operasi terhadap kapasitas condensing
+15;Minimum partload CHP;40%;Minimal beban operasi terhadap kapasitas CHP
+16;Useful heat from condensing (if any);0 TWh;Tidak ada panas berguna dari condensing
+17;Total useful heat from thermal power plants;7,905387671 TWh;Total panas berguna dari semua pembangkit thermal (hanya berasal dari CHP)
+18;Share of CHP in thermal capacity;9,23%;Persentase kapasitas CHP dari total kapasitas thermal
+19;Share of CHP in thermal generation (electricity);3,32%;Persentase pembangkitan listrik oleh CHP dari total thermal
